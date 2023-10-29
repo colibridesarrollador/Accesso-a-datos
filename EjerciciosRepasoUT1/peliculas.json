@@ -1,0 +1,19 @@
+{
+	"peliculas": [
+		{
+			"nombre": "El Señor de los Anillos",
+			"director": "Peter Jackson",
+			"oscars": 17
+		},
+		{
+			"nombre": "Titanic",
+			"director": "James Cameron",
+			"oscars": 11
+		},
+		{
+			"nombre": "Rocky",
+			"director": "John G. Avildsen",
+			"oscars": 3
+		}
+	]
+}

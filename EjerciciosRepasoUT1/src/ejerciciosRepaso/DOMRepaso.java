@@ -133,7 +133,7 @@ public class DOMRepaso {
 		try {
 			Transformer t = tf.newTransformer();
 			DOMSource source = new DOMSource(doc);
-			StreamResult result = new StreamResult(new FileWriter("jugadores_modificados.xml"));
+			StreamResult result = new StreamResult(new FileWriter("files_salidas/jugadores_modificados.xml"));
 			t.transform(source, result);
 		} catch (TransformerException | IOException e) {
 			e.printStackTrace();

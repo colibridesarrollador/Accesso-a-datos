@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Empleados>
+    <Empleado Empresa="Gerente" Puesto="LW">
+        <Nombre>Pedro</Nombre>
+        <Ciudad>Madrid</Ciudad>
+        <Sueldo>20000</Sueldo>
+    </Empleado>
+    <Empleado Empresa="Becario" Puesto="QH">
+        <Nombre>Luis</Nombre>
+        <Ciudad>Barcelona</Ciudad>
+        <Sueldo>19000</Sueldo>
+    </Empleado>
+    <Empleado Empresa="Manager" Puesto="LW">
+        <Nombre>Isabel</Nombre>
+        <Ciudad>Madrid</Ciudad>
+        <Sueldo>21000</Sueldo>
+    </Empleado>
+</Empleados>

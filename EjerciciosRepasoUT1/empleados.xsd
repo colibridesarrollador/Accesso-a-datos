@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" xml:lang="es">
+	<xsd:element name="Empleados">
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="Empleado" minOccurs="0" maxOccurs="unbounded"></xsd:element>	
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Empleado">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Nombre" type="xsd:string"/>
+				<xsd:element name="Ciudad" type="xsd:string"/>
+				<xsd:element name="Sueldo" type="xsd:string"/>
+			</xsd:sequence>
+			<xsd:attribute name="Empresa" type="xsd:string" />
+			<xsd:attribute name="Puesto" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

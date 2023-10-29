@@ -1,0 +1,23 @@
+<Series>
+	<Serie anioEstreno="2022" cadena="Amazon">
+		<Nombre>Los anillos de poder</Nombre>
+		<Productor>Patrick McKay</Productor>
+	</Serie>
+	<Serie anioEstreno="2003" cadena="Antena3" anioFin="2006">
+		<Nombre>ANHQV</Nombre>
+		<Productor>Alberto Caballero</Productor>
+	</Serie>
+	<Serie anioEstreno="2003" cadena="Telecinco" anioFin="2008">
+		<Nombre>Los serrano</Nombre>
+		<Productor>Daniel Ecija</Productor>
+		<Protagonista>Curro</Protagonista>
+	</Serie>
+	<Serie anioEstreno="2009" cadena="La 1" anioFin="2016">
+		<Nombre>Aguila Roja</Nombre>
+		<Protagonista>Gonzalo</Protagonista>
+	</Serie>
+	<Serie>
+		<Nombre>Sin-chan</Nombre>
+		<Protagonista>Sin-chan</Protagonista>
+	</Serie>
+</Series>
