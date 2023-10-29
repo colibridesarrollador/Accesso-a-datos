@@ -1,0 +1,27 @@
+<Jugadores>
+	<Jugador equipo="Real Madrid" seleccion="Si" posicion="Centrocampista">
+		<Nombre>Luca</Nombre>
+		<Apellido>Modric</Apellido>
+		<Dorsal>10</Dorsal>
+	</Jugador>
+	<Jugador equipo="Barcelona" seleccion="Si" posicion="Delantero">
+		<Nombre>Ansu</Nombre>
+		<Apellido>Fati</Apellido>
+		<Dorsal>10</Dorsal>
+	</Jugador>
+	<Jugador equipo="Real Madrid" seleccion="No" posicion="Defensa">
+		<Nombre>Nacho</Nombre>
+		<Apellido>Fernandez</Apellido>
+		<Dorsal>6</Dorsal>
+	</Jugador>
+	<Jugador equipo="Atletico" seleccion="No" posicion="Defensa">
+		<Nombre>Mario</Nombre>
+		<Apellido>Hermoso</Apellido>
+		<Dorsal>22</Dorsal>
+	</Jugador>
+	<Jugador equipo="Atletico" seleccion="Si" posicion="Centrocampista">
+		<Nombre>Amanda</Nombre>
+		<Apellido>Sampedro</Apellido>
+		<Dorsal>6</Dorsal>
+	</Jugador>
+</Jugadores>

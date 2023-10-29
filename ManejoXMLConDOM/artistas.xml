@@ -1,0 +1,21 @@
+<Artistas xmlns:xsi="www.w3.org/2001/XMLSchema-instance">
+
+	<Artista TELEFONO="123456789" DIRECCION="CALLE BURGOS">
+		<Nombre>Sergio</Nombre>
+		<Apellidos>Dalma</Apellidos>
+		<Ciudad>Sabadell</Ciudad>
+	</Artista>
+
+	<Artista TELEFONO="987654123">
+		<Nombre>David</Nombre>
+		<Apellidos>Bisbal</Apellidos>
+		<Ciudad>Almeria</Ciudad>
+	</Artista>
+	
+	<Artista TELEFONO="852963741" DIRECCION="CALLE LUGO" MUSICA="POP">
+		<Nombre>Pablo</Nombre>
+		<Apellidos>Alboran</Apellidos>
+		<Ciudad>Malaga</Ciudad>
+	</Artista>
+
+</Artistas>
